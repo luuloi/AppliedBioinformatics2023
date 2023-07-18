@@ -1,4 +1,4 @@
-### Applied Bioinformatics 2023
+# Applied Bioinformatics 2023
 1. Linux OS, Linux command lines, and basic bash script
 2. Basic R, statistics with R, and data visualization with R
 3. Review basic molecular biology, the human genome, gene annotation, and the other databases
