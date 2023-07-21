@@ -11,14 +11,14 @@ Your task is to write an AWK script to read this file, calculate the total sales
 # Fasta analysis.
 You have a FASTA file named "sequences.fasta" that contains DNA sequences in the following format:
 
->>Sequence1
+>\>Sequence1
 >
 >ATCGATCGATCGATCG
->>Sequence2
+>\>Sequence2
 >
 >AGCTAGCTAGCTAGCTAGCTAGCT
 >
->>Sequence3
+>\>Sequence3
 >
 >ATGATGATGATG
 
