@@ -1,0 +1,6 @@
+Product A,Electronics,1200
+Product B,Clothing,800
+Product C,Electronics,1500
+Product D,Clothing,1000
+Product E,Electronics,1800
+Product F,Toys,600
