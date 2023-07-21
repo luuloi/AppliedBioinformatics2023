@@ -7,5 +7,5 @@
 6. Downstream analysis for DNA-seq
 7. Introduction to bulk RNA-seq, library types, and experiment design 
 8. PolyA bulk RNA-seq analysis
-9. Long-non-coding bulk RNA-seq analysis
+9. Long non-coding bulk RNA-seq analysis
 10. Presenting group projects
