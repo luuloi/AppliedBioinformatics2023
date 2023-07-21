@@ -1,6 +1,0 @@
-John,85
-Alice,92
-Bob,78
-Emily,95
-Tom,82
-Sophia,88
