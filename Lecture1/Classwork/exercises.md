@@ -14,6 +14,7 @@ You have a FASTA file named "sequences.fasta" that contains DNA sequences in the
 >\>Sequence1
 >
 >ATCGATCGATCGATCG
+>
 >\>Sequence2
 >
 >AGCTAGCTAGCTAGCTAGCTAGCT
