@@ -11,16 +11,52 @@ Your task is to write an AWK script to read this file, calculate the total sales
 # Fasta analysis.
 You have a FASTA file named "sequences.fasta" that contains DNA sequences in the following format:
 
->\>Sequence1
->
->ATCGATCGATCGATCG
->
->\>Sequence2
->
->AGCTAGCTAGCTAGCTAGCTAGCT
->
->\>Sequence3
->
->ATGATGATGATG
+```
+>Sequence1
+ATCGATCGATCGATCG
+>Sequence2
+AGCTAGCTAGCTAGCTAGCTAGCT
+>Sequence3
+ATGATGATGATG
+```
 
 Your task is to write an AWK script to read this FASTA file, analyze the sequences, calculate the length of each sequence, find the sequence with the highest length, and calculate the average length of all sequences.
+
+# String manipulation.
+
+You have a file named "names.txt" that contains a list of names, one name per line. 
+
+Your task is to write an AWK script to read this file, manipulate the names in different ways, and generate output based on the manipulations.
+
+Example Input (names.txt):
+
+```
+John Smith
+Alice Johnson
+Bob Williams
+Emily Brown
+```
+
+Expected Output:
+
+```
+1. Original Names:
+John Smith
+Alice Johnson
+Bob Williams
+Emily Brown
+
+2. Number of Names: 4
+
+3. Reversed Names:
+htimS nhoJ
+nosnhoJ ecilA
+smailliW boB
+nworB ylimE
+
+4. Uppercase Names:
+JOHN SMITH
+ALICE JOHNSON
+BOB WILLIAMS
+EMILY BROWN
+```
