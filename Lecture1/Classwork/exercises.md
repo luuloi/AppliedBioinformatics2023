@@ -12,10 +12,14 @@ Your task is to write an AWK script to read this file, calculate the total sales
 You have a FASTA file named "sequences.fasta" that contains DNA sequences in the following format:
 
 >>Sequence1
+>
 >ATCGATCGATCGATCG
 >>Sequence2
+>
 >AGCTAGCTAGCTAGCTAGCTAGCT
+>
 >>Sequence3
+>
 >ATGATGATGATG
 
 Your task is to write an AWK script to read this FASTA file, analyze the sequences, calculate the length of each sequence, find the sequence with the highest length, and calculate the average length of all sequences.
