@@ -1,3 +1,5 @@
+**_Scripts for these tasks were already created but were not completed and expected to make errors. Please debug them and make them work properly._**
+
 # Student score analysis.
 You have a file named "scores.txt" that contains student names and their corresponding grades, one record per line, separated by a comma. 
 
@@ -60,7 +62,3 @@ ALICE JOHNSON
 BOB WILLIAMS
 EMILY BROWN
 ```
-
-
-
-**_Scripts for these tasks were already created but were not completed and expected to make errors. Please debug them and make them work properly._**
