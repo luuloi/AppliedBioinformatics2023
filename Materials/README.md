@@ -14,6 +14,8 @@
 
 [Happy Belly Bioinformatics](https://astrobiomike.github.io/): A blog by Mike Lee with lots of useful tutorials.
 
+[Umer Ijaz's page](https://userweb.eng.gla.ac.uk/umer.ijaz/#teaching): Resources for bioinformatics.
+
 ## Linux environment.
 
 [Learn by Example](https://learnbyexample.github.io): Collection of tutorials for bash scripting.
