@@ -12,6 +12,6 @@
 
 [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/): Collection of bash one-liners.
 
-[Efficient Python Tricks and Tips](https://learnbyexample.github.io): Collection of tutorials for bash scripting.
+[Efficient Python Tricks and Tips](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html): Collection of tutorials for bash scripting.
 
 [Dave Tang's website](https://davetang.org/muse/): Personal blog of Dave Tang - a well-known bioinformatician very resourceful for learning.
