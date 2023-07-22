@@ -1,0 +1,51 @@
+Carrier,Commitment,Provided
+Alaska,Rebook passenger on same airline at no additional cost for significant delays,1
+Alaska,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,1
+Alaska,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+Alaska,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+Alaska,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+Allegiant,Rebook passenger on same airline at no additional cost for significant delays,1
+Allegiant,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,0
+Allegiant,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,0
+Allegiant,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+Allegiant,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+American,Rebook passenger on same airline at no additional cost for significant delays,1
+American,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,1
+American,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+American,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+American,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+Delta,Rebook passenger on same airline at no additional cost for significant delays,1
+Delta,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,1
+Delta,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+Delta,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+Delta,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+Frontier,Rebook passenger on same airline at no additional cost for significant delays,1
+Frontier,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,0
+Frontier,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+Frontier,Complimentary hotel accommodations for any passenger affected by an overnight delay,0
+Frontier,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,0
+Hawaiian,Rebook passenger on same airline at no additional cost for significant delays,1
+Hawaiian,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,0
+Hawaiian,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+Hawaiian,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+Hawaiian,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+JetBlue,Rebook passenger on same airline at no additional cost for significant delays,1
+JetBlue,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,1
+JetBlue,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+JetBlue,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+JetBlue,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+Southwest,Rebook passenger on same airline at no additional cost for significant delays,1
+Southwest,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,0
+Southwest,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+Southwest,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+Southwest,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
+Spirit,Rebook passenger on same airline at no additional cost for significant delays,1
+Spirit,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,0
+Spirit,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+Spirit,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+Spirit,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,0
+United,Rebook passenger on same airline at no additional cost for significant delays,1
+United,Rebook on partner airline or another airline with which it has an agreement at no additional cost for significant delays,1
+United,Meal or meal cash/voucher when flight delay results in passenger waiting 3 hours or more,1
+United,Complimentary hotel accommodations for any passenger affected by an overnight delay,1
+United,Complimentary ground transportation to and from hotel for any passenger affected by an overnight delay,1
