@@ -12,7 +12,8 @@
 2.2 Data Visualization with R \
 2.3 Some Basic Statistics with R \
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing)\
-[Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)\\
+[Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform)\
+
 **3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023** \
 **4. Basic GWAS with case vs control and quantitative traits - 12/08/2023** \
 **5. NGS and upstream analysis for DNA-seq - 19/08/2023** \
