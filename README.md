@@ -6,12 +6,12 @@
    1.2 Basic bash script and awk \
    a) https://urx1.com/lED85 \
    b) https://ury1.com/H4st4 \
-**2. Basic R, data visualization with R, and statistics with R**
-4. Review basic molecular biology, the human genome, gene annotation, and the other databases
-5. Basic GWAS: case/control and quantitative traits 
-6. NGS and upstream analysis for DNA-seq
-7. Downstream analysis for DNA-seq
-8. Introduction to bulk RNA-seq, library types, and experiment design 
-9. PolyA bulk RNA-seq analysis
-10. Long non-coding bulk RNA-seq analysis
-11. Presenting group projects
+**2. Basic R, data visualization with R, and statistics with R** \
+**3. Review basic molecular biology, the human genome, gene annotation, and the other databases** \
+**4. Basic GWAS: case/control and quantitative traits**\ 
+**5. NGS and upstream analysis for DNA-seq**\
+**6. Downstream analysis for DNA-seq**\
+**7. Introduction to bulk RNA-seq, library types, and experiment design**\ 
+**8. PolyA bulk RNA-seq analysis**\
+**9. Long non-coding bulk RNA-seq analysis**\
+**10. Presenting group projects**
