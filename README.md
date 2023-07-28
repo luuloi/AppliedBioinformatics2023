@@ -1,5 +1,5 @@
 # **Applied Bioinformatics 2023**
-[**0. Introduction to the course "Applied Bioinformatics 2023"**] (https://github.com/luuloi/AppliedBioinformatics2023/tree/56ac736b7dcb631d1b63999264e51c5f940ab0b0/Lecture0)
+[**0. Introduction to the course "Applied Bioinformatics 2023"**] <https://github.com/luuloi/AppliedBioinformatics2023/tree/56ac736b7dcb631d1b63999264e51c5f940ab0b0/Lecture0>\
 **1. Linux Operating System (OS), Linux command lines, basic bash script, and awk** \
    1.1 Linux OS Ubuntu and Linux command lines \
    a) https://ury1.com/Y8m9n \
