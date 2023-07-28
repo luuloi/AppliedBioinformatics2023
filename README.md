@@ -1,4 +1,4 @@
-# Applied Bioinformatics 2023
+# **Applied Bioinformatics 2023**
 _1. Linux Operating System (OS), Linux command lines, basic bash script, and awk__ \
    __1.1 Linux OS Ubuntu and Linux command lines___ \
       ___a) https://ury1.com/Y8m9n___ \
