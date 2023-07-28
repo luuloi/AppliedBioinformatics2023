@@ -1,1 +1,100 @@
+# who am I?
+whoami
 
+# current working directory
+pwd
+
+# what linux and version of it 
+cat /etc/os-release
+
+# list all the files and directories
+ls
+
+# change directory 
+cd
+
+# look at the content of files
+cat
+less
+more
+head -n3
+tail -n3
+cd /
+
+# pipe
+|
+
+# location of command 
+which
+
+# location of file
+find
+
+# location of file
+locate
+
+# unzip file
+gunzip
+
+# zip file
+gz
+
+# ownership 
+chmod
+
+# 
+chown
+
+# screen 
+sudo apt update
+sudo apt install screen
+tmux
+
+# export PATH
+
+# Download
+wget
+curl
+
+# transfer data 
+rsync
+
+# copy files
+cp 
+
+# rename file
+mv 
+
+# hard/soft link files
+ln
+
+# view files and folders
+tree
+
+# count words, character, lines
+wc
+
+# cut
+
+# paste
+
+# join
+
+# grep 
+
+# touch
+
+# text edictor
+vi
+vim
+nano
+
+# 
+ssh
+
+
+# how to install R, python and other softwares (FASTQC and bwa) 
+
+# introduce python and R
+
+#
