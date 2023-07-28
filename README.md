@@ -13,7 +13,7 @@
 2.3 Some Basic Statistics with R \
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing)\
 **3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023** \
-**4. Basic GWAS: case vs control and quantitative traits - 12/08/2023** \ 
+**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023** \ 
 **5. NGS and upstream analysis for DNA-seq - 19/08/2023** \
 **6. Downstream analysis for DNA-seq - 26/08/2023** \
 **7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \ 
