@@ -44,3 +44,37 @@ do.call(function(A, B) sum(c(A, B)), list(x))  # Use do.call with an anonymous f
 # Here, Reduce is used with a function that takes three arguments. However, this will return an error since Reduce expects a binary function.
 # Uncommenting the following line will result in an error
 # Reduce(function(A, B, C) sum(c(A, B, C)), x)  # Use Reduce with an anonymous function that takes three arguments to sum the elements of the vector
+
+# Section 5: More Useful Functions in R
+
+# str() provides a compact, human-readable description of any R object
+str(w_data)
+
+# summary() function provides basic summary statistics of a vector or data frame
+summary(w_data)
+
+# subset() function subsets a data frame based on some condition
+subset_w_data <- subset(w_data, team == "A" | points > 90)  # Subset the data where team is 'A' or points > 90
+subset_w_data  # Display the subsetted data
+
+# lapply() applies a function to each element of a list or vector
+lapply(w_data, mean)  # Apply the mean() function to each column of w_data
+
+# sapply() is a user-friendly version of lapply() by default returning a vector, matrix or, if simplify = "array", an array if appropriate
+sapply(w_data, mean)
+
+# apply() applies a function to the rows or columns of a matrix
+matrix_data <- matrix(1:9, nrow = 3)  # Create a matrix
+apply(matrix_data, 1, sum)  # Apply the sum() function to each row of the matrix
+
+# tapply() applies a function to subsets of a vector (possibly further split into subsets)
+tapply(iris$Sepal.Length, iris$Species, mean)  # Apply the mean() function to 'Sepal.Length' split by 'Species'
+
+# rbind() combines data frames by rows and cbind() combines data frames by columns
+new_row <- data.frame(team = "E", points = 92, assists = 20, rebounds = 25)  # Create a new data frame to be appended as a row
+w_data_rbind <- rbind(w_data, new_row)  # Append new_row to w_data
+w_data_rbind  # Display the updated data frame
+
+new_col <- data.frame(fouls = c(8, 7, 9, 10, 7))  # Create a new data frame to be appended as a column
+w_data_cbind <- cbind(w_data_rbind, new_col)  # Append new_col to w_data_rbind
+w_data_cbind  # Display the updated data frame
