@@ -104,8 +104,8 @@ stripchart(data$Age,  # Adding points to boxplot
 )
 
 par(mfrow = c(1, 2))  # Setting up a plotting area for two plots
-boxplot(Age ~ Heart.Disease, data = data, col = "lightblue")  # Adding boxplot
-vioplot(Age ~ Heart.Disease, data = data, col = "lightblue")  # Adding violin plot
+boxplot(Age ~ `Heart Disease`, data = data, col = "lightblue")  # Adding boxplot
+vioplot(Age ~ `Heart Disease`, data = data, col = "lightblue")  # Adding violin plot
 dev.off()  # Closing the plotting device
 
 ### ggplot2 boxplot and violin plot
@@ -124,7 +124,7 @@ x <- data$BP  # Setting x variable
 y <- data$Cholesterol  # Setting y variable
 plot(x, y,
     xlab = "Blood pressure",  # Adding x label
-    ylab = "Choloesterol",  # Adding y label
+    ylab = "Cholesterol",  # Adding y label
     pch = 19, frame = FALSE,  # Setting point symbol and removing frame
     col = "blue"  # Setting color
 )
@@ -136,7 +136,7 @@ abline(lm(y ~ x, data = data),  # Adding regression line
 
 ### ggplot2 scatter plot
 ggplot(data, aes(x = BP, y = Cholesterol)) +
-    geom_point(aes(col = Heart.Disease), size = 4, alpha = 0.7) +  # Adding points
+    geom_point(aes(col = `Heart Disease`), size = 4, alpha = 0.7) +  # Adding points
     geom_smooth(method = "lm") +  # Adding regression line
     theme(text = element_text(size = 15)) +
     theme_classic() +  # Setting classic
