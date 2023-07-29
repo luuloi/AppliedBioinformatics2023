@@ -1,18 +1,18 @@
-## THIS SCRIPT TO INSTALL R AND NECESSARY PACKAGES IN R
+# This script contains links to install R and necessary packages in R
 
-# Install R in vscode
-# https://code.visualstudio.com/docs/languages/r
+# Section 1: Install R in vscode
+# Visit https://code.visualstudio.com/docs/languages/r to get instructions for installing R in Visual Studio Code
 
-# Install R and R sudio in ubuntu 20.04
-# https://computingforgeeks.com/how-to-install-r-and-rstudio-on-ubuntu-debian-mint/
+# Section 2: Install R and RStudio in Ubuntu 20.04
+# Visit https://computingforgeeks.com/how-to-install-r-and-rstudio-on-ubuntu-debian-mint/ for instructions on how to install R and RStudio in Ubuntu 20.04
 
-# Install R and rstudio in windown
-# https://www.dataquest.io/blog/installing-r-on-your-computer/
+# Section 3: Install R and RStudio in Windows
+# Visit https://www.dataquest.io/blog/installing-r-on-your-computer/ for instructions on how to install R and RStudio in Windows
 
-# install packages
-install.packages("vioplot")
-install.packages("ggplot2")
-install.packages("reshape2")
-install.packages("ggdist")
-install.packages("readxl")
-install.packages("xlsx")
+# Section 4: Install Packages in R
+install.packages("vioplot")  # Install vioplot package
+install.packages("ggplot2")  # Install ggplot2 package
+install.packages("reshape2")  # Install reshape2 package
+install.packages("ggdist")  # Install ggdist package
+install.packages("readxl")  # Install readxl package
+install.packages("xlsx")  # Install xlsx package
