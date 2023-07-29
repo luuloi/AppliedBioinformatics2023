@@ -1,75 +1,68 @@
-# This script for discover, generate and edit for data types in R
-# There are five data types in R programming
-# 1. numeric (double) - (10.5, 55, 787)
-num <- 2.2
-class(num)
-is.numeric(num)
-typeof(num)
+# This script is for discovering, generating, and editing data types in R programming
 
-# 2. integer - (1L, 55L, 100L, where the letter "L" declares this as an integer)
-a <- 1L
-test <- 1
-class(a)
-class(test)
-is.numeric(a)
-typeof(a)
+# Section 1: Numeric (double)
+num <- 2.2  # Define a numeric (double) variable
+class(num)  # Get the class of the variable
+is.numeric(num)  # Check if the variable is numeric
+typeof(num)  # Get the type of the variable
 
+# Section 2: Integer
+a <- 1L  # Define an integer variable
+test <- 1  # Define a numeric (double) variable
+class(a)  # Get the class of the integer variable
+class(test)  # Get the class of the numeric variable
+is.numeric(a)  # Check if the integer variable is numeric
+typeof(a)  # Get the type of the integer variable
 
-# 3. complex - (9 + 3i, where "i" is the imaginary part)
-b <- 3i
-class(b)
-is.numeric(b)
-typeof(b)
+# Section 3: Complex
+b <- 3i  # Define a complex variable
+class(b)  # Get the class of the complex variable
+is.numeric(b)  # Check if the complex variable is numeric
+typeof(b)  # Get the type of the complex variable
 
-# 4. character (a.k.a. string) - ("k", "R is exciting", "FALSE", "11.5")
-strings <- "programming"
-class(strings)
-is.character(strings)
-typeof(strings)
+# Section 4: Character (string)
+strings <- "programming"  # Define a character (string) variable
+class(strings)  # Get the class of the string variable
+is.character(strings)  # Check if the variable is a string
+typeof(strings)  # Get the type of the string variable
 
+# Section 5: Logical (boolean)
+c <- TRUE  # Define a logical (boolean) variable
+d <- F  # Define a logical variable using the shorthand for FALSE
+e <- 'f'  # Define a character variable with the letter 'f'
+class(e)  # Get the class of the character variable
+class(c)  # Get the class of the logical variable
+class(d)  # Get the class of the logical variable
+is.logical(c)  # Check if the variable is logical
+is.logical(d)  # Check if the variable is logical
+typeof(c)  # Get the type of the logical variable
+typeof(d)  # Get the type of the logical variable
 
-# 5. logical (a.k.a. boolean) - (TRUE or FALSE)
-c <- TRUE
-d <- F
-e <- 'f'
-class(e)
-class(c)
-class(d)
-is.logical(c)
-is.logical(d)
-typeof(c)
-typeof(d)
+# Section 6: Coercion of data types
+num_char <- as.character(num)  # Coerce numeric to character
+class(num_char)  # Get the class of the new character variable
+is.numeric(num)  # Check if the original variable is numeric
 
-# coerce numeric to character
-class(num)
-num_char <- as.character(num)
-num_char
-class(num_char)
-is.numeric(num)
+logic <- T  # Define a logical variable using the shorthand for TRUE
+logic_num <- as.numeric(logic)  # Coerce logical to numeric
+class(logic)  # Get the class of the logical variable
+class(logic_num)  # Get the class of the numeric variable
+logic_num  # Print the numeric variable
 
-logic <- T
-logic_num <- as.numeric(logic)
-class(logic)
-class(logic_num)
-logic_num
+# Section 7: Basic arithmetic and variable assignment
+2^4  # Power operation
+2/2  # Division operation
+5/2  # Division operation
+5%%2  # Modulus operation
+5%/%2  # Integer division operation
 
-# Basic arithmetic and variable assignment
-# power
-2^4
-# inerger devide
-2/2
-5/2
-5%%2
-5%/%2
+# Section 8: Comparison and logical operators
+num_1 = 5  # Assign a value to num_1
+num_2 = 4  # Assign a value to num_2
+num_3 = 6  # Assign a value to num_3
 
-# Comparison and logical operators
-num_1 = 5
-num_2 = 4
-num_3 = 6
+num_1 == num_2  # Equality comparison between num_1 and num_2
+num_1 != num_2  # Inequality comparison between num_1 and num_2
 
-num_1 == num_2
-num_1 != num_2
-
-num_1 > num_2 & num_1 > num_3
-num_1 > num_2 | num_1 > num_3
-
+num_1 > num_2 & num_1 > num_3  # Logical AND operation between two comparisons
+num_1 > num_2 | num_1 > num_3  # Logical OR operation between two comparisons
