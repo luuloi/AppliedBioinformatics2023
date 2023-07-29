@@ -12,8 +12,14 @@
 
 [**2. Basic Introduction to R, Data Visualization, and Statistics with R  - 29/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 2.1 Basic Introduction to R \
+a) https://t.ly/YzSJW
+b) https://t.ly/RZPAu
 2.2 Data Visualization with R \
+a) https://t.ly/_aONb
+b) https://t.ly/A0ktd
 2.3 Some Basic Statistics with R \
+a) https://t.ly/04KyK
+b) https://t.ly/mYU77
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform) 
 
