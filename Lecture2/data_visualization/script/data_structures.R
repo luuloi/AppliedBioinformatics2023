@@ -1,7 +1,8 @@
 # This script is for discovering, generating and editing data structures in R
 
-# 1. Scalar 
-sc <- 1 # Define a scalar (single value) and examine its length and type
+# 1. Scalar
+# Define a scalar (single value) and examine its length and type
+sc <- 1 # Define a scalar
 length(sc) # Get length of scalar
 class(sc) # Get class of scalar
 
