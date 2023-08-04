@@ -1,7 +1,7 @@
 # **Applied Bioinformatics 2023**
 
-[**0. Introduction to the course "Applied Bioinformatics 2023" - 22/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/blob/56ac736b7dcb631d1b63999264e51c5f940ab0b0/Lecture0/Lecture0.pptx)
-[**Please select a project](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
+[**0. Introduction to the course "Applied Bioinformatics 2023" - 22/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/blob/56ac736b7dcb631d1b63999264e51c5f940ab0b0/Lecture0/Lecture0.pptx) \
+[**Please select a project before 09/09/2023**](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
 
 [**1. Linux Operating System (OS), Linux command lines, basic bash script, and awk  - 22/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    1.1 Linux OS Ubuntu and Linux command lines \
