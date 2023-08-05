@@ -6,7 +6,7 @@
 
 2. Common types of conditional statements include `if`, `elif` (else if), and `else` in Python, and `if`, `else if`, and `else` in R.
 
-3. **Comparison operators** such as `==` (equal), `!=` (not equal), `<` (less than), `>` (greater than), `<=` (less than or equal to), and `>=` (greater than or equal to) are often used in the boolean conditions.
+3. **Comparison operators** such as `==` (equal), `!=` (not equal), `<` (less than), `>` (greater than), `<=` (less than or equal to), and `>=` (greater than or equal to) are often used in the boolean conditions. 
 
     ```python
     if x == y:
@@ -19,8 +19,38 @@
     if x > 0 and y > 0:
         print("Both x and y are positive numbers")
     ```
+    
+5. **Membership operators** such as `in` keyword in Python and the `%in%` operator in R check for membership or containment within a collection such as a list, tuple, or array. In Python, `in` is not limited to collections, it can also be used to check for substrings within a string. On the other hand, in R, we have to use `grepl` to check for substrings.
 
-5. Conditional statements can be *nested*, meaning you can have `if-else` statements within `if-else` statements to check for further conditions.
+    ```python
+    # Check if an element exists in a list
+    fruits = ["apple", "banana", "cherry"]
+    if "banana" in fruits:
+        print("Yes, 'banana' is in the fruits list.")
+    ```
+
+    ```python
+    # Check if a substring in a string
+    text = "Hello, world!"
+    if "world" in text:
+        print("Substring found.")
+    ```
+
+    ```r
+    fruits <- c("apple", "banana", "cherry")
+    if ("banana" %in% fruits) {
+        print("Yes, 'banana' is in the fruits vector.")
+    }
+    ```
+
+    ```r
+    text <- "Hello, world!"
+    if (grepl("world", text)) {
+        print("Substring found.")
+    }
+    ```
+
+7. Conditional statements can be *nested*, meaning you can have `if-else` statements within `if-else` statements to check for further conditions.
 
 **Loops:**
 
@@ -46,16 +76,49 @@
 
 5. Be mindful of *infinite loops* - these occur when the condition for a `while` loop never becomes false. To prevent this, make sure to include a statement within the loop that will eventually render the condition false.
 
-6. **Loop control statements** like `break` and `continue` can alter the flow of a loop. `break` is used to exit the loop prematurely, while `continue` is used to skip the rest of the current iteration and move directly to the next one.
+6. **Loop control statements** like `break` and `continue` can alter the flow of a loop. `break` is used to exit the loop prematurely, while `continue` is used to skip the rest of the current iteration and move directly to the next one. The `break` statement in R is very similar to the `break` statement in Python, it terminates a loop entirely. The `next` statement in R is equivalent to `continue` in Python, it rejects all the remaining statements in the current iteration of the loop and moves the control back to the top of the loop for the next iteration.
 
+    *Python Example:*
+   
     ```python
     for i in range(10):
         if i == 5:
             break
         print(i)
+    # Output: 1, 2, 3, 4
     ```
 
-7. Loops can also be *nested*, meaning you can have loops within loops. This is useful when working with multi-dimensional data structures like matrices or nested lists.
+    ```python
+    for num in range(10):
+        if num == 5:
+            continue
+        print(num)
+    # Output: 0, 1, 2, 3, 4, 6, 7, 8, 9
+    ```
+
+    *R Example:*
+
+   ```r
+   for (num in 1:10) {
+       if (num == 6) {
+           break
+       }
+       print(num)
+   }
+   # Output: 1, 2, 3, 4
+   ```
+
+   ```r
+   for (num in 1:10) {
+       if (num == 6) {
+           next
+       }
+       print(num)
+   }
+   # Output: 0, 1, 2, 3, 4, 6, 7, 8, 9
+   ```
+
+8. Loops can also be *nested*, meaning you can have loops within loops. This is useful when working with multi-dimensional data structures like matrices or nested lists.
 
 Remember that understanding the concepts of conditionals and loops is foundational to learning how to program, and they are used in almost every piece of code, especially in bioinformatics where dealing with large amounts of data is common.
 
