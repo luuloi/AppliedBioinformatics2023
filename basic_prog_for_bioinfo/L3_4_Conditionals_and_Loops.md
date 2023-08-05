@@ -98,7 +98,7 @@ Remember that understanding the concepts of conditionals and loops is foundation
     cat(paste("RNA: ", dna_to_rna(dna), "\n"))
     ```
 
-**DNA to RNA Transcription with higher-order programming**
+**DNA to RNA Transcription with functional programming**
 
 1. *Python Example - using `str` method `replace()`:*
 
@@ -166,7 +166,7 @@ Remember that understanding the concepts of conditionals and loops is foundation
     cat(paste("GC content: ", calculate_gc_content(dna), "%\n"))
     ```
 
-**Calculating GC content with higher-order programming**
+**Calculating GC content with functional programming**
 
 1. *Python Example - using `str` method `count()`:*
 
