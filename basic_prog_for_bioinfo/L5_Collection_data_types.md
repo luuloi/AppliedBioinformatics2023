@@ -241,7 +241,7 @@ Set and dictionary-like data structures, such as sets, dictionaries in Python an
     unset my_array["first_name"]
     ```
 
-In this section, we explore sets and dictionaries in Python, as well as equivalent data structures in R. We learn how to create, access, add, and remove elements from these structures. We also learn about their unique characteristics, such as how sets ensure all elements are unique, and how dictionaries store data in key-value pairs.
+In this section, we explore sets and dictionaries in Python, as well as equivalent data structures in R and bash. We learn how to create, access, add, and remove elements from these structures. We also learn about their unique characteristics, such as how sets ensure all elements are unique, and how dictionaries store data in key-value pairs.
 
 **Anonymous Functions and Applying Functions to Collections**
 
