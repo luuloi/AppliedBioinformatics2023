@@ -38,6 +38,39 @@
     a <- TRUE
     cat(paste("a is of ", class(a), " type and its value is ", a, "\n"))
     ```
+3. *bash Example:* Bash primarily uses strings, but there are ways to manipulate and interpret other types of data. Remember that **whitespace** does matter in `bash`.
+
+    ```bash
+    # String
+    my_string="Bioinformatics"
+    echo "The value of my_string is: $my_string"
+
+    # Numeric (integers or floats)
+    number=10
+    echo "The value of number is: $number"
+
+    # Arrays
+    my_array=("gene1" "gene2" "gene3")
+    echo "First element of the array is: ${my_array[0]}"
+
+    # Associative arrays (or hash maps) are used to create dictionaries-like structures to store key-value pairs
+    # Before you can use an associative array, you must declare it with declare or typeset
+    declare -A my_array
+    # Once declared, you can assign values to keys
+    my_array["first_name"]="John"
+    my_array["last_name"]="Doe"
+    # To access the values associated with a key
+    echo ${my_array["first_name"]}   # Outputs "John"
+    echo ${my_array["last_name"]}    # Outputs "Doe"
+    # List all keys
+    echo ${!my_array[@]}
+    # List all values
+    echo ${my_array[@]}
+    # Count elements
+    echo ${#my_array[@]}    # Outputs the number of elements in the array
+    # Remove element
+    unset my_array["first_name"]
+    ```
 
 **Applying Operators**
 
@@ -84,7 +117,85 @@
     cat(paste("Logical OR: ", x > y | x > 0, "\n"))
     cat(paste("Logical NOT: ", !(x < y), "\n"))
     ```
+3. *bash Example:*
 
+    ```bash
+    ### Arithmetic operators
+    x=15
+    y=5
+    
+    # Addition
+    echo $((x + y))
+    
+    # Subtraction
+    echo $((x - y))
+    
+    # Multiplication
+    echo $((x * y))
+    
+    # Division
+    echo $((x / y))
+    
+    # Modulus
+    echo $((x % y))
+
+    ### Comparison operators
+    if [ "x" -eq "x" -eq "y" ]; then
+        echo "x is equal to y"
+    fi
+    
+    if [ "x" -ne "x" -ne "y" ]; then
+        echo "x is not equal to y"
+    fi
+    
+    if [ "x" -gt "x" -gt "y" ]; then
+        echo "x is greater than y"
+    fi
+    
+    # ... And so on for -ge (greater than or equal to), -lt (less than), and -le (less than or equal to).
+
+    ### Logical operators
+    if [ "x" −lt 20 && "x" -lt 20 && "y" -gt 4 ]; then
+        echo "Both conditions are true."
+    fi
+    
+    if [ "x" −lt 20 || "x" -lt 20 || "y" -eq 5 ]; then
+        echo "At least one of the conditions is true."
+    fi
+
+    ### String Operators
+    str1="Hello"
+    str2="World"
+    
+    if [ "str1"="str1" = "str2" ]; then
+        echo "Both strings are equal."
+    else
+        echo "Strings are not equal."
+    fi
+    
+    # Check if string is not empty
+    if [ -n "$str1" ]; then
+        echo "String is not empty."
+    fi
+
+    file="/path/to/file"
+
+    ### File operators
+    # Check if file exists
+    if [ -e "$file" ]; then
+        echo "File exists."
+    fi
+    
+    # Check if file has read permission
+    if [ -r "$file" ]; then
+        echo "File has read access."
+    fi
+    
+    # ... And similarly for -w (write permission), -x (execute permission), -s (file size is not zero), etc.
+    ```
+
+   Bash has a rich set of operators, each designed to help in different scenarios, from simple arithmetic to complex file manipulations. These operators become particularly useful in bioinformatics scripts, where data processing and manipulation are frequent tasks.
+    
 **Distinctive Features: Python**
 
 1. In Python, a string is iterable and can be handled in many ways similar to a list.
@@ -149,9 +260,62 @@
     print(mean(x))  # Computes the mean of the vector x
     ```
 
+**Distinctive Features: bash**
+
+1. Loosely Typed: Bash does not have strongly-typed variables. Everything is treated as a string. Even when you assign numbers, they are technically character strings that represent those numbers.
+
+        ```bash
+        x=10
+        y="Hello"
+        echo $x   # 10
+        echo $y   # Hello
+        ```
+    To force Bash to treat a variable as an integer, you can use `declare` or `typeset`:
+
+        ```bash
+        declare -i z
+        z=10/3
+        echo $z   # 3
+        ```
+
+    bash also doesn't support floating-point arithmetic natively. For any floating-point operations, external programs or utilities like `bc` are needed.
+
+2. Bash uses a different set of operators for string and numeric comparisons. For instance, `=` and `!=` are used for string comparisons.
+    
+    - **Numeric Comparisons**: `-eq`, `-ne`, `-gt`, `-lt`, `-ge`, and `-le` are used for numeric comparisons.
+
+    - **Logical Operators**: bash uses `&&` (and), `||` (or), and `!` (not) for logical operations.
+
+    - **Arithmetic Evaluation**: For arithmetic operations, double parentheses are used:
+
+        ```bash
+        x=5
+        y=10
+        result=$(( x + y ))
+        echo $result   # 15
+        ```
+
+    - **File Test Operators**: bash has operators to check file types and compare files. For instance, `-d FILE` will check if FILE exists and is a directory.
+
+3. **Parameter Expansion and String Manipulation**: bash has powerful parameter expansion mechanisms, which allow for string manipulations without calling external utilities:
+
+        ```bash
+        string="bioinformatics"
+        echo ${string:0:3}  # Outputs "bio"
+        ```
+
+4. **Command Substitution**: Allows you to run a command and substitute its output in place:
+
+        ```bash
+        files=$(ls)
+        echo "Files in directory: $files"
+        ```
+
+5. **Redirection and Pipes**: While not strictly related to data types or operators, Bash's ability to redirect input and output and to connect commands using pipes (`|`) is a defining feature that greatly influences its data processing capability.
+
 **Note on printf-style String Formatting**
 
-In both Python and R, there is a functionality for printf-style string formatting, which originates from the C programming language's `printf` function. This allows us to insert the values of variables into strings in a formatted manner.
+In Python, R, and bash, there is a functionality for printf-style string formatting. This originates from the C programming language's printf function, and it provides a mechanism to format and print data. This technique allows for greater control over how the output is displayed.
 
 1. *Python Example:*
 
@@ -183,6 +347,28 @@ In both Python and R, there is a functionality for printf-style string formattin
 
     # Using printf-style formatting
     cat(sprintf("My name is %s and I'm %d years old.\n", name, age))
+    ```
+    
+3. *bash Example:*
+
+    ```bash
+    name="Alice"
+    age=25
+    
+    # Using printf-style formatting
+    printf "My name is %s and I'm %d years old.\n" "name""name" "age"
+    
+    # Controlling the number of decimal places
+    pi=3.14159
+    printf "Pi to 2 decimal places: %.2f\n" "$pi"
+    
+    # Padding numbers with zeros
+    number=5
+    printf "Number padded with zeros: %05d\n" "$number"
+    
+    # Adjusting the alignment
+    text="Hello"
+    printf "Right aligned text: %10s\n" "$text"
     ```
 
 In these printf-style formatting strings, `%s` stands for a string, `%d` stands for an integer, and `%f` stands for a floating-point number. There are many more such format specifiers, allowing you to control how the variable's value should be formatted. This can be very useful in many scenarios, such as generating dynamic messages, formatting output for better readability, and more. In the context of bioinformatics, you might find this useful for generating dynamic filenames, log messages, or output data.
