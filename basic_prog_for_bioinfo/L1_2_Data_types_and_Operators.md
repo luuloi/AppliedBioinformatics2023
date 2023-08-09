@@ -38,7 +38,7 @@
     a <- TRUE
     cat(paste("a is of ", class(a), " type and its value is ", a, "\n"))
     ```
-3. *bash Example:* Bash primarily uses strings, but there are ways to manipulate and interpret other types of data. Remember that **whitespace** does matter in `bash`.
+3. *bash Example:* bash primarily uses strings, but there are ways to manipulate and interpret other types of data. Remember that **whitespace** does matter in `bash`.
 
     ```bash
     # String
