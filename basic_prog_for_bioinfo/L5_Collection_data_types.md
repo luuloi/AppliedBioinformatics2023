@@ -78,6 +78,20 @@ Array-like data structures, such as lists and arrays, are fundamental tools for 
     print(paste("List after removing an element: ", a_list))
     ```
 
+3. *bash Example:*
+
+   ```bash
+    # Assign array
+    my_array=("gene1" "gene2" "gene3")
+    echo "First element of the array is: ${my_array[0]}"
+   
+    # List all values
+    echo ${my_array[@]}
+   
+    # Count elements
+    echo ${#my_array[@]}    # Outputs the number of elements in the array
+   ```
+
 **Object Referencing, Copying and Deep Copying**
 
 In both Python and R, when you assign an existing list to a new variable, what actually happens is that you're creating a reference to the original list, not creating a whole new list.
@@ -201,6 +215,30 @@ Set and dictionary-like data structures, such as sets, dictionaries in Python an
     # Removing a name:value pair
     a_list$age <- NULL
     print(paste("List after removing a pair: ", a_list))
+    ```
+
+3. *bash Example:* Associative arrays (or hash maps) are used to create dictionaries-like structures to store key-value pairs.
+
+    ```bash
+    # Declare associative arrays with declare or typeset
+    declare -A my_array
+    
+    # Once declared, you can assign values to keys
+    my_array["first_name"]="John"
+    my_array["last_name"]="Doe"
+    
+    # To access the values associated with a key
+    echo ${my_array["first_name"]}   # Outputs "John"
+    echo ${my_array["last_name"]}    # Outputs "Doe"
+    
+    # List all keys
+    echo ${!my_array[@]}
+
+    # Count elements
+    echo ${#my_array[@]}    # Outputs the number of elements in the array
+       
+    # Remove element
+    unset my_array["first_name"]
     ```
 
 In this section, we explore sets and dictionaries in Python, as well as equivalent data structures in R. We learn how to create, access, add, and remove elements from these structures. We also learn about their unique characteristics, such as how sets ensure all elements are unique, and how dictionaries store data in key-value pairs.
