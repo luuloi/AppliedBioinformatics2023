@@ -48,29 +48,8 @@
     # Numeric (integers or floats)
     number=10
     echo "The value of number is: $number"
-
-    # Arrays
-    my_array=("gene1" "gene2" "gene3")
-    echo "First element of the array is: ${my_array[0]}"
-
-    # Associative arrays (or hash maps) are used to create dictionaries-like structures to store key-value pairs
-    # Before you can use an associative array, you must declare it with declare or typeset
-    declare -A my_array
-    # Once declared, you can assign values to keys
-    my_array["first_name"]="John"
-    my_array["last_name"]="Doe"
-    # To access the values associated with a key
-    echo ${my_array["first_name"]}   # Outputs "John"
-    echo ${my_array["last_name"]}    # Outputs "Doe"
-    # List all keys
-    echo ${!my_array[@]}
-    # List all values
-    echo ${my_array[@]}
-    # Count elements
-    echo ${#my_array[@]}    # Outputs the number of elements in the array
-    # Remove element
-    unset my_array["first_name"]
     ```
+    In bash, there's no native Boolean data type like True or False as in Python or other high-level languages. Instead, bash often uses exit statuses to represent truthy or falsy values. The exit status 0 typically represents "true" or "success," and any non-zero exit status (like 1) typically represents "false" or "failure."
 
 **Applying Operators**
 
