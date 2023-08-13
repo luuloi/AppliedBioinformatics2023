@@ -34,7 +34,7 @@ b) https://t.ly/mYU77 \
 **5. NGS and upstream analysis for DNA-seq - 19/08/2023** \
 **6. Downstream analysis for DNA-seq - 26/08/2023** \
 **7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
-[7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7) \
+[7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7)
 
 **8. PolyA bulk RNA-seq analysis - 16/09/2023** \
 **9. Long non-coding bulk RNA-seq analysis - 23/09/2023** \
