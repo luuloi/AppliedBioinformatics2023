@@ -26,7 +26,7 @@ b) https://t.ly/mYU77 \
 
 **3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023** \
 [3.1 Lecture Video can be found here](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=1) \
-[3.2] The slide can be found here]()\
+[3.2 The slide can be found here](https://github.com/luuloi/AppliedBioinformatics2023/tree/0a2300108b5cccf4c3260f199fe4c5a67c3a62d0/Lecture3)\
 
 [**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023**](https://github.com/luuloi/GWAS_Introduction_2023) \
 [Please find the full content lecture here](https://github.com/luuloi/GWAS_Introduction_2023) \
