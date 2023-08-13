@@ -25,7 +25,9 @@ b) https://t.ly/mYU77 \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform) 
 
 **3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023** \
-**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023** \
+
+[**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023**](https://github.com/luuloi/GWAS_Introduction_2023) \
+[Please find the full content lecture here](https://github.com/luuloi/GWAS_Introduction_2023) \
 **5. NGS and upstream analysis for DNA-seq - 19/08/2023** \
 **6. Downstream analysis for DNA-seq - 26/08/2023** \
 **7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
