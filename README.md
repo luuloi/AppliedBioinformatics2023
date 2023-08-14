@@ -33,9 +33,14 @@ b) https://t.ly/mYU77 \
 
 **5. Next-Generation Sequencing and upstream analysis for DNA-seq - 19/08/2023** \
 [5.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
-[5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
+[5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4) \
+[5.3 Variant Calling and Variant Filtering for DNA-seq](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) 
 
-**6. Downstream analysis for DNA-seq - 26/08/2023** \
+**6. Downstream analysis for DNA-seq - 26/08/2023** \ 
+[6.1 Variant Annotation and Variant Annotation databases for DNA-seq Part I](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
+[6.2 Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
+[6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
+
 **7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
 [7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7)
 
