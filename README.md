@@ -41,12 +41,12 @@ b) https://t.ly/mYU77 \
 [6.2 Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
 [6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
-**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
+**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023**
 [7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7)
 
-**8. PolyA bulk RNA-seq analysis - 16/09/2023** \
+**8. PolyA bulk RNA-seq analysis - 16/09/2023**
 
-**9. Long non-coding bulk RNA-seq analysis - 23/09/2023** \
+**9. Long non-coding bulk RNA-seq analysis - 23/09/2023** 
 
-**10. Presenting group projects** \
+**10. Presenting group projects** 
 
