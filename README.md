@@ -31,7 +31,10 @@ b) https://t.ly/mYU77 \
 [**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023**](https://github.com/luuloi/GWAS_Introduction_2023) \
 [Please find the full content lecture here](https://github.com/luuloi/GWAS_Introduction_2023)
 
-**5. NGS and upstream analysis for DNA-seq - 19/08/2023** \
+**5. Next-Generation Sequencing and upstream analysis for DNA-seq - 19/08/2023** \
+[5.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
+[5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
+
 **6. Downstream analysis for DNA-seq - 26/08/2023** \
 **7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
 [7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7)
