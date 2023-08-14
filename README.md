@@ -5,26 +5,17 @@
 
 [**1. Linux Operating System (OS), Linux command lines, basic bash script, and awk  - 22/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) and [Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
-   1.2 Basic bash script and awk \
-   a) https://urx1.com/lED85 \
-   b) https://ury1.com/H4st4 
-
+   [1.2 Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4) and [Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) \
+   
 [**2. Basic Introduction to R, Data Visualization, and Statistics with R  - 29/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
-2.1 Basic Introduction to R \
-a) https://t.ly/YzSJW \
-b) https://t.ly/RZPAu \
-2.2 Data Visualization with R \
-a) https://t.ly/_aONb \
-b) https://t.ly/A0ktd \
-2.3 Some Basic Statistics with R \
-a) https://t.ly/04KyK \
-b) https://t.ly/mYU77 \
+2.1 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
+2.2 Data Visualization with [R3](https://www.youtube.com/watch?v=UbLO2hKG_iQ&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=7) and [R4](https://www.youtube.com/watch?v=zkLsIb5MIPY&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=9)\
+2.3 Some Basic Statistics with [R5](https://www.youtube.com/watch?v=6TVYI9ub460&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=11) and [R6](https://www.youtube.com/watch?v=jnJ2GZDnM3A&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=10)\
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform) 
 
-**3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023** \
-[3.1 Lecture Video can be found here](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=1) \
-[3.2 The slide can be found here](https://github.com/luuloi/AppliedBioinformatics2023/tree/6958020d5b0aa414a76aacf8769c0fe5c400fcf0/Lecture3)
+[**3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023**](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=1) \
+[The slide can be found here](https://github.com/luuloi/AppliedBioinformatics2023/tree/6958020d5b0aa414a76aacf8769c0fe5c400fcf0/Lecture3)
 
 [**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023**](https://github.com/luuloi/GWAS_Introduction_2023) \
 [Please find the full content lecture here](https://github.com/luuloi/GWAS_Introduction_2023)
