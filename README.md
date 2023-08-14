@@ -5,8 +5,6 @@
 
 [**1. Linux Operating System (OS), Linux command lines, basic bash script, and awk  - 22/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) and [Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
-   a) https://ury1.com/Y8m9n \
-   b) https://ury1.com/h4GCv \
    1.2 Basic bash script and awk \
    a) https://urx1.com/lED85 \
    b) https://ury1.com/H4st4 
