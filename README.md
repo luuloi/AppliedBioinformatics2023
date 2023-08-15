@@ -33,7 +33,10 @@
 **7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
 [7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7)
 
-**8. PolyA bulk RNA-seq analysis - 16/09/2023**
+**8. PolyA bulk RNA-seq analysis - 16/09/2023** \
+[8.1 Upstream analysis with mapping to reference genome and De novo assembly](https://www.youtube.com/watch?v=EDfjDcH-3Ug&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=11) \
+[8.2 Downstream analysis of Bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
+[8.3 Downstream analysis of Bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13)
 
 **9. Long non-coding bulk RNA-seq analysis - 23/09/2023** 
 
