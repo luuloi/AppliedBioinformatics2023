@@ -5,7 +5,7 @@
 
 [**1. Linux Operating System (OS), Linux command lines, basic bash script, and awk  - 22/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture1) \
    [1.1 Linux OS Ubuntu](https://www.youtube.com/watch?v=HHZExqr9RJ0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh) and [Linux command lines](https://www.youtube.com/watch?v=DD8o2Ihhd3s&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=3) \
-   [1.2 Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4) and [Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) \
+   [1.2 Basic bash script and awk](https://www.youtube.com/watch?v=6c3F9zR3Oz0&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=4) and [Practice on bash script](https://www.youtube.com/watch?v=cE4YwB9giaI&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5) 
    
 [**2. Basic Introduction to R, Data Visualization, and Statistics with R  - 29/07/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/d19ed217da3a715642a1436a472c140ce288f975/Lecture2) \
 2.1 Introduction to Basic [R1](https://www.youtube.com/watch?v=0T88PMzDyC8&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=5&pp=iAQB&fbclid=IwAR1yvmbv1vBaygnjIvkUa-3ytEpdHoKpm0QZv_LH6pBDOKwpsLGrVlw33ng) and [R2](https://www.youtube.com/watch?v=OexjRQDIwJA&list=PLXtgXP89Tyn8zX7cQ9ryvk3AwP4JHxHXh&index=8&t=1s) \
