@@ -14,7 +14,7 @@
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform) 
 
-[**3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/6958020d5b0aa414a76aacf8769c0fe5c400fcf0/Lecture3) \
+[**3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/bedd46305f0bbc121c9dacc52b6ef18436d46f02/Lecture3) \
 [Click here for watching video](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=2)
 
 [**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023**](https://github.com/luuloi/GWAS_Introduction_2023) \
