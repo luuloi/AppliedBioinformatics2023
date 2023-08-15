@@ -14,31 +14,32 @@
 [Please fill in the form](https://docs.google.com/spreadsheets/d/1Ivx9iK1FTmQ3u1MH_u3lIlocKhDEss4yE8fg1yz_xo0/edit?usp=sharing) \
 [Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeq_nzCg52Mls9536ORNgOpU35c4k-uxgY2rnDjdCEs6pdvfg/viewform) 
 
-[**3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023**](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=1) \
-[The slide can be found here](https://github.com/luuloi/AppliedBioinformatics2023/tree/6958020d5b0aa414a76aacf8769c0fe5c400fcf0/Lecture3)
+[**3. Review basic molecular biology, the human genome, gene annotation, and the other databases  - 05/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/6958020d5b0aa414a76aacf8769c0fe5c400fcf0/Lecture3) \
+[Click here for watching video](https://www.youtube.com/watch?v=j3A6jTiLlDo&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=2)
 
 [**4. Basic GWAS with case vs control and quantitative traits - 12/08/2023**](https://github.com/luuloi/GWAS_Introduction_2023) \
 [Please find the full content lecture here](https://github.com/luuloi/GWAS_Introduction_2023)
 
-**5. Next-Generation Sequencing and upstream analysis for DNA-seq - 19/08/2023** \
+[**5. Next-Generation Sequencing and upstream analysis for DNA-seq - 19/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [5.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
 [5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4) \
 [5.3 Variant Calling and Variant Filtering for DNA-seq](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) 
 
-**6. Downstream analysis for DNA-seq - 26/08/2023** \
+[**6. Downstream analysis for DNA-seq - 26/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
 [6.1 Variant Annotation and Variant Annotation databases for DNA-seq Part I](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [6.2 Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
 [6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
-**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023** \
-[7.1 Please find the lecture slide here](https://github.com/luuloi/AppliedBioinformatics2023/tree/d44ac31a6f50865ffa4b463f338cde7cf716f26a/Lecture7)
+[**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7) \
+[7.1 Introduction to bulk RNA-seq, library types, and experiment design](https://www.youtube.com/watch?v=2cOmuLPafds&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=10)
 
-**8. PolyA bulk RNA-seq analysis - 16/09/2023** \
+[**8. PolyA bulk RNA-seq analysis - 16/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture8) \
 [8.1 Upstream analysis with mapping to reference genome and De novo assembly](https://www.youtube.com/watch?v=EDfjDcH-3Ug&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=11) \
-[8.2 Downstream analysis of Bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
-[8.3 Downstream analysis of Bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13)
+[8.2 Downstream analysis of bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
+[8.3 Downstream analysis of bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13)
 
-**9. Long non-coding bulk RNA-seq analysis - 23/09/2023** 
+[**9. Long non-coding bulk RNA-seq analysis - 23/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture9) \
+[9.1 Use cases of poly-A bulk, long non-coding RNA and allelic gene expression](https://www.youtube.com/watch?v=AjOFgi5eW3w&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=15)
 
-**10. Presenting group projects** 
+[**10. Presenting group projects**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Project)
 
