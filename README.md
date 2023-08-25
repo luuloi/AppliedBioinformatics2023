@@ -31,19 +31,21 @@
 [6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
 [**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7) \
-[7.1 Introduction to transcriptome, bulk RNA-seq and microarray](https://www.youtube.com/watch?v=nZFyciSbcMo&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=8)
-[7.2 Comparison of Expression Array vs RNA-seq](https://www.youtube.com/watch?v=Ky9eD-Mi9kE&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=9)
+[7.1 Introduction to transcriptome, bulk RNA-seq and microarray](https://www.youtube.com/watch?v=nZFyciSbcMo&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=8) \
+[7.2 Comparison of Expression Array vs RNA-seq](https://www.youtube.com/watch?v=Ky9eD-Mi9kE&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=9) \
 [7.3 RNA-seq library types and Bulk RNA-seq experimental design](https://www.youtube.com/watch?v=2cOmuLPafds&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=10)
 
 [**8. PolyA bulk RNA-seq analysis - 16/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture8) \
 [8.1 Upstream analysis with mapping to reference genome and De novo assembly](https://www.youtube.com/watch?v=EDfjDcH-3Ug&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=11) \
 [8.2 Downstream analysis of bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
-[8.3 Downstream analysis of bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13)
+[8.3 Downstream analysis of bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13) \
+[8.4 Use cases of poly-A bulk RNA-seq for variant calling](https://www.youtube.com/watch?v=_c6kQah3q1c&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=17)
 
 [**9. Long non-coding bulk RNA-seq analysis - 23/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture9) \
-[9.1 Use cases of poly-A bulk, long non-coding RNA and allelic gene expression](https://www.youtube.com/watch?v=AjOFgi5eW3w&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=15)
+[9.1 Use cases of long non-coding RNA and allelic gene expression](https://www.youtube.com/watch?v=AjOFgi5eW3w&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=15)
 
-[**10. Presenting group projects**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Project)
+[**10. Presenting group projects**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Project)\
+[List of group projects for Applied Bioinformatics](https://docs.google.com/spreadsheets/d/13wdcJoBUs-Uw3pWMku0huHMdTa5NOBIU1miyxDYlVw0/edit?usp=sharing)
 
 # **Materials**
 [**0. Bash and Awk books**](https://github.com/luuloi/AppliedBioinformatics2023/tree/43e5ce8a178e579497db221a33f1cd1daed26e73/Materials/book/bioinformatics_linux) \
