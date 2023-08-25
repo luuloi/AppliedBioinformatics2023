@@ -29,7 +29,7 @@
 [6.1 Variant Calling and Variant Filtering for DNA-seq](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
 [6.2a Variant Annotation and Variant Annotation databases for DNA-seq Part I](https://www.youtube.com/watch?v=Q7JWzrBJc48&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=8) \
 [6.2b Variant Annotation and Variant Annotation databases for DNA-seq Part II](https://www.youtube.com/watch?v=JjFl_fP4t38&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=9) \
-[6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \ 
+[6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10) \
 [Practice on DNA-seq Downstream Analysis](https://github.com/ducminhnguyenle/NGS3_Variant_Discovery.git) 
 
 [**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7) \
