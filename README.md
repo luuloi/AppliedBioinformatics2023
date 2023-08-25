@@ -37,9 +37,9 @@
 
 [**8. PolyA bulk RNA-seq analysis - 16/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture8) \
 [8.1 Upstream analysis with mapping to reference genome and De novo assembly](https://www.youtube.com/watch?v=EDfjDcH-3Ug&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=11) \
-[8.2 Downstream analysis of bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
-[8.3 Downstream analysis of bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13) \
-[8.4 Use cases of poly-A bulk RNA-seq for variant calling](https://www.youtube.com/watch?v=_c6kQah3q1c&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=17)
+[8.2a Downstream analysis of bulk RNA-seq Part I](https://www.youtube.com/watch?v=N8AruRYfigA&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=12) \
+[8.2b Downstream analysis of bulk RNA-seq Part II](https://www.youtube.com/watch?v=kKDydWRACCU&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=13) \
+[8.3 Use cases of poly-A bulk RNA-seq for variant calling](https://www.youtube.com/watch?v=_c6kQah3q1c&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=17)
 
 [**9. Long non-coding bulk RNA-seq analysis - 23/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture9) \
 [9.1 Use cases of long non-coding RNA and allelic gene expression](https://www.youtube.com/watch?v=AjOFgi5eW3w&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=15)
