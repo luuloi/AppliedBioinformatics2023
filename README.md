@@ -31,7 +31,7 @@
 [6.3 Cancer Gene Panel DNA testing](https://www.youtube.com/watch?v=eT4NXergQCg&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=10)
 
 [**7. Introduction to bulk RNA-seq, library types, and experiment design - 9/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture7) \
-[7.1 Introduction to bulk RNA-seq, library types, and experiment design](https://www.youtube.com/watch?v=2cOmuLPafds&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=10)
+[Click here for watching videos](https://github.com/luuloi/AppliedBioinformatics2023/blob/4b81f197e61f84574615595c3fa7df2f6df39a87/Lecture7/README.md)
 
 [**8. PolyA bulk RNA-seq analysis - 16/09/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture8) \
 [8.1 Upstream analysis with mapping to reference genome and De novo assembly](https://www.youtube.com/watch?v=EDfjDcH-3Ug&list=PLXtgXP89Tyn8yx-fwUfKGZvedrOtERKkV&index=11) \
