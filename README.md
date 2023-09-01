@@ -23,7 +23,7 @@
 
 [**5. Next-Generation Sequencing and upstream analysis for DNA-seq - 19/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture5) \
 [5.1 Introduction to NGS platform](https://www.youtube.com/watch?v=nD568OBFQC0&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=3) \
-[5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4) \
+[5.2 Raw Data Processing and Alignment/Mapping for DNA-seq](https://www.youtube.com/watch?v=ZqmkzgHgUuM&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=4)
 
 [**6. Downstream analysis for DNA-seq - 26/08/2023**](https://github.com/luuloi/AppliedBioinformatics2023/tree/main/Lecture6) \
 [6.1 Variant Calling and Variant Filtering for DNA-seq](https://www.youtube.com/watch?v=2-Fzd0yiv0M&list=PLXtgXP89Tyn92OdScNIYBUBI8DNCFCCN4&index=6) \
