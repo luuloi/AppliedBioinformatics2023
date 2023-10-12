@@ -337,7 +337,7 @@ In many cases, you might need to apply a function to each element in a collectio
    
    In Bash, while you don't have high-level, built-in functions like `lapply` or `map`, you can achieve similar behaviors using loops, awk, sed, and other text processing tools. Let's talk about how to approximate some of this behavior in Bash:
 
-   * Anonymous Functions:
+  * Anonymous Functions:
 
      Bash does not have a direct concept of anonymous functions. However, you can create a function and use it immediately:
 
