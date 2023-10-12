@@ -8,20 +8,42 @@
 
 3. **Comparison operators** such as `==` (equal), `!=` (not equal), `<` (less than), `>` (greater than), `<=` (less than or equal to), and `>=` (greater than or equal to) are often used in the boolean conditions. 
 
+  * Python
+
     ```python
     if x == y:
         print("x and y are equal")
     ```
 
+  * R
+
+    ```R
+    if (x == y) {
+        print("x and y are equal")
+    }
+    ```
+
 4. **Logical operators** such as `and`, `or`, and `not` in Python, and `&`, `|`, and `!` in R, can be used to combine or invert boolean conditions.
 
+  * Python
+    
     ```python
     if x > 0 and y > 0:
         print("Both x and y are positive numbers")
     ```
-    
-5. **Membership operators** such as `in` keyword in Python and the `%in%` operator in R check for membership or containment within a collection such as a list, tuple, or array. In Python, `in` is not limited to collections, it can also be used to check for substrings within a string. On the other hand, in R, we have to use `grepl` to check for substrings.
 
+  * R
+
+    ```R
+    if (x > 0 & y > 0) {
+        print("Both x and y are positive numbers")
+    }
+    ```    
+    
+6. **Membership operators** such as `in` keyword in Python and the `%in%` operator in R check for membership or containment within a collection such as a list, tuple, or array. In Python, `in` is not limited to collections, it can also be used to check for substrings within a string. On the other hand, in R, we have to use `grepl` to check for substrings.
+
+  * Python
+    
     ```python
     # Check if an element exists in a list
     fruits = ["apple", "banana", "cherry"]
@@ -36,6 +58,8 @@
         print("Substring found.")
     ```
 
+  * R
+    
     ```r
     fruits <- c("apple", "banana", "cherry")
     if ("banana" %in% fruits) {
@@ -50,6 +74,25 @@
     }
     ```
 
+  * Bash
+
+    ```bash
+    fruits=("apple" "banana" "cherry")
+    
+    contains() {
+      local n=$#
+      local value=${!n}
+      for ((i=1;i < $#;i++)) {
+        if [ "${!i}" == "${value}" ]; then
+          echo "Yes, '${value}' is in the fruits array."
+          return 0
+        fi
+      }
+      return 1
+    }
+    
+    contains "${fruits[@]}" "banana"
+    ```
 7. Conditional statements can be *nested*, meaning you can have `if-else` statements within `if-else` statements to check for further conditions.
 
 **Loops:**
@@ -117,6 +160,24 @@
    }
    # Output: 0, 1, 2, 3, 4, 6, 7, 8, 9
    ```
+
+  * Bash
+    
+    ```bash
+    for i in {0..9}
+    do
+       echo $i
+    done
+    ```
+
+    ```bash
+    i=0
+    while [ $i -lt 10 ]
+    do
+       echo $i
+       ((i++))  # Increment i
+    done
+    ```
 
 8. Loops can also be *nested*, meaning you can have loops within loops. This is useful when working with multi-dimensional data structures like matrices or nested lists.
 
