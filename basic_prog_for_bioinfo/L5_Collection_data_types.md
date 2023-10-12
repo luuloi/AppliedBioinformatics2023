@@ -332,3 +332,54 @@ In many cases, you might need to apply a function to each element in a collectio
     Remember that the function you pass to `lapply`, `sapply`, or `mapply` is applied to each element of the input list or vector. Therefore, the function should be written to handle individual elements.
     
     The `apply` family of functions in R provide a powerful and flexible way to manipulate data, and are frequently used in data analysis tasks.
+
+3. *bash Examples:*
+   
+   In Bash, while you don't have high-level, built-in functions like `lapply` or `map`, you can achieve similar behaviors using loops, awk, sed, and other text processing tools. Let's talk about how to approximate some of this behavior in Bash:
+
+   * Anonymous Functions:
+
+     Bash does not have a direct concept of anonymous functions. However, you can create a function and use it immediately:
+
+    ```bash
+    add_ten() {
+      echo $(($1 + 10))
+    }
+    
+    echo "Result: $(add_ten 5)"  # prints "Result: 15"
+    ```
+
+  * Applying Functions to Collections:
+
+    * For Loops:
+
+      Using a for loop, you can apply a function to each element in a collection (e.g., an array).
+
+      ```bash
+      numbers=(1 2 3 4 5)
+      result=()
+        
+      for num in "${numbers[@]}"; do
+          result+=("$(add_ten $num)")
+      done
+        
+      echo "Result: ${result[@]}"  # prints "Result: 11 12 13 14 15"
+      ```
+
+    * Using `awk`:
+
+      If you have a list of numbers in a file or a stream, you can use awk to add a value to each:
+   
+      ```bash
+      echo -e "1\n2\n3\n4\n5" | awk '{print $1 + 10}'  # prints numbers from 11 to 15
+      ```
+
+    * Using `xargs`:
+   
+      The `xargs` command can be used to apply a command (which could be a script/function) to each item in a list.
+   
+      ```bash
+      echo -e "1\n2\n3\n4\n5" | xargs -I {} bash -c 'echo $(($1 + 10))' _ {}
+      ```
+
+    While Bash doesn't have the elegant built-in constructs for mapping functions to collections as in higher-level languages, it does offer a versatile toolset for manipulating and processing data in a streamlined fashion, especially when combined with other UNIX tools like `awk`, `sed`, `grep`, and `xargs`.
